@@ -2,19 +2,16 @@
 
 A computer vision system that estimates vehicle speeds using the line-crossing method and captures license plates for traffic monitoring. Built with YOLOv11 for detection and ByteTrack for multi-object tracking.
 
-## Demo Videos
+## Demo
 
-### Highway (Front-facing camera, horizontal lines)
+### Highway (horizontal lines)
+![Highway Demo](data/outputs/highway_demo/demo.gif)
 
-<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/highway_demo/demo_short.mp4" controls width="640"></video>
+### Side View (vertical lines)
+![Side View Demo](data/outputs/side_view_demo/demo.gif)
 
-### Side View (Perpendicular camera, vertical lines)
-
-<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/side_view_demo/demo_short.mp4" controls width="640"></video>
-
-### Diagonal (Oblique angle, diagonal lines)
-
-<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/diagonal_demo/demo_short.mp4" controls width="640"></video>
+### Diagonal (angled lines)
+![Diagonal Demo](data/outputs/diagonal_demo/demo.gif)
 
 ## What It Does
 
