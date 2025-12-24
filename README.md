@@ -4,14 +4,20 @@ A computer vision system that estimates vehicle speeds using the line-crossing m
 
 ## Demo
 
-### Highway (horizontal lines)
-![Highway Demo](data/outputs/highway_demo/demo.gif)
+<p align="center">
+<b>Highway (horizontal lines)</b><br>
+<img src="data/outputs/highway_demo/demo.gif" width="700">
+</p>
 
-### Side View (vertical lines)
-![Side View Demo](data/outputs/side_view_demo/demo.gif)
+<p align="center">
+<b>Side View (vertical lines)</b><br>
+<img src="data/outputs/side_view_demo/demo.gif" width="700">
+</p>
 
-### Diagonal (angled lines)
-![Diagonal Demo](data/outputs/diagonal_demo/demo.gif)
+<p align="center">
+<b>Diagonal (angled lines)</b><br>
+<img src="data/outputs/diagonal_demo/demo.gif" width="700">
+</p>
 
 ## What It Does
 
