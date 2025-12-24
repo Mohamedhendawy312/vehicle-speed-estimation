@@ -1,2 +1,0 @@
-Track ID,Vehicle Type,Speed (km/h),Travel Time (s),Direction,Violation,Timestamp,Frame,Snapshot,License Plate
-1,car,80.1,1.168,approaching,YES,2025-12-24 13:36:04,163,../data/outputs/side_view_demo/snapshots/violation_001/full_frame.jpg,../data/outputs/side_view_demo/snapshots/violation_001/plate.jpg
