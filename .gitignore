@@ -1,0 +1,44 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (large, download separately)
+*.pt
+
+# Large videos
+demo_output.mp4
+*.avi
+*.mov
+
+# Test data (download VS13 separately)
+data/test_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# Tracked: demo_short.mp4 clips and snapshots folder
+# These are small enough for git (~5MB total)
