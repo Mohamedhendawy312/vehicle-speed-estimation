@@ -5,13 +5,16 @@ A computer vision system that estimates vehicle speeds using the line-crossing m
 ## Demo Videos
 
 ### Highway (Front-facing camera, horizontal lines)
-https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/highway_demo/demo_short.mp4
+
+<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/highway_demo/demo_short.mp4" controls width="640"></video>
 
 ### Side View (Perpendicular camera, vertical lines)
-https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/side_view_demo/demo_short.mp4
+
+<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/side_view_demo/demo_short.mp4" controls width="640"></video>
 
 ### Diagonal (Oblique angle, diagonal lines)
-https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/diagonal_demo/demo_short.mp4
+
+<video src="https://github.com/Mohamedhendawy312/vehicle-speed-estimation/raw/main/data/outputs/diagonal_demo/demo_short.mp4" controls width="640"></video>
 
 ## What It Does
 
